@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Session Version="Hindenburg Journalist Pro 1.66.2176" Samplerate="44100">
+ <AudioPool Path="Table Tennis in Heckmondwike Files" Location="/Volumes/KEVIN/17076251_MMU_Work/Year_two/CMAP/Audio Documentary/Audio">
+  <File Id="1" Name="ChrisReece^.wav" Duration="04:54.875" Leq="-22.0" Dyn="0.41">
+   <MetaData OriginalPath="/Volumes/KEVIN/17076251_MMU_Work/Year_two/CMAP/Audio Documentary/Audio/Chris Reece Interview/ChrisReece.WAV" Originator="ZOOM Handy Recorder H6" Date="2018-11-16, 20:42:25"/>
+  </File>
+  <File Id="2" Name="JoshLane^.wav" Duration="05:33.123" Leq="-23.3" Dyn="0.69">
+   <MetaData OriginalPath="/Volumes/KEVIN/17076251_MMU_Work/Year_two/CMAP/Audio Documentary/Audio/Josh Lane Interview/JoshLane.WAV" Originator="ZOOM Handy Recorder H6" Date="2018-11-16, 22:45:48"/>
+  </File>
+  <File Id="3" Name="Last Summer-ikson.wav" Duration="02:42.122" Channels="2" Leq="-8.5">
+   <MetaData OriginalPath="/Volumes/KEVIN/17076251_MMU_Work/Year_two/CMAP/Audio Documentary/Audio/Music/Last Summer-ikson.wav"/>
+  </File>
+  <File Id="4" Name="AmbienceSound2.wav" Duration="03:30.002" Channels="2" Leq="-20.1">
+   <MetaData OriginalPath="/Volumes/KEVIN/17076251_MMU_Work/Year_two/CMAP/Audio Documentary/Audio/bg sound1/AmbienceSound2.wav"/>
+  </File>
+  <File Id="5" Name="We are one - Vexento.wav" Duration="03:49.158" Channels="2" Leq="-8.2" Dyn="0.15">
+   <MetaData OriginalPath="/Volumes/KEVIN/17076251_MMU_Work/Year_two/CMAP/Audio Documentary/Audio/Music/We are one - Vexento.wav"/>
+  </File>
+ </AudioPool>
+ <Tracks>
+  <Track Name="Josh Int" Volume="0.5">
+   <Region Ref="2" Name="JoshLane" Start="04.596" Length="01.780" Offset="03.928" FadeOut="00.294" Gain="5.7"/>
+   <Region Ref="2" Name="JoshLane" Start="10.718" Length="05.588" Offset="05.806" FadeOut="00.700" Gain="5.5"/>
+   <Region Ref="2" Name="JoshLane" Start="23.308" Length="07.585" Offset="18.558" FadeIn="00.420" Gain="6.4"/>
+   <Region Ref="2" Name="JoshLane" Start="34.405" Length="06.429" Offset="26.143" Gain="2.3"/>
+   <Region Ref="2" Name="JoshLane" Start="40.834" Length="04.103" Offset="33.350" FadeOut="00.284" Gain="2.3"/>
+   <Region Ref="2" Name="JoshLane" Start="01:03.897" Length="04.376" Offset="38.314" FadeIn="00.563" FadeOut="00.844" Gain="2.3"/>
+   <Region Ref="2" Name="JoshLane" Start="01:09.064" Length="03.029" Offset="01:36.216" FadeIn="00.493" Gain="2.3"/>
+   <Region Ref="2" Name="JoshLane" Start="01:13.157" Length="04.593" Offset="01:39.292" FadeIn="00.563" FadeOut="00.352" Gain="2.3"/>
+   <Region Ref="2" Name="JoshLane" Start="01:23.930" Length="28.825" Offset="01:49.795" FadeIn="00.424" FadeOut="00.924" Gain="1.8"/>
+   <Region Ref="2" Name="JoshLane" Start="01:54.003" Length="15.081" Offset="02:44.580" FadeIn="00.913" FadeOut="00.987" Gain="1.4"/>
+   <Region Ref="2" Name="JoshLane" Start="02:09.280" Length="27.419" Offset="03:34.452" FadeIn="00.562" FadeOut="00.288" Gain="1.6"/>
+   <Region Ref="2" Name="JoshLane" Start="02:37.675" Length="19.563" Offset="05:07.941" FadeIn="00.632" Gain="0.3"/>
+  </Track>
+  <Track Name="Chris Int" Volume="-3">
+   <Region Ref="1" Name="ChrisReece" Start="06.788" Length="04.526" Offset="03.365" FadeOut="00.630" Gain="1.0"/>
+   <Region Ref="1" Name="ChrisReece" Start="16.638" Length="02.321" Offset="10.617" FadeIn="00.284" Gain="1.2">
+    <Fade Start="00.354" Length="00.035" Gain="-1.63074"/>
+    <Fade Start="00.531" Length="00.035" Gain="1.18119"/>
+    <Fade Start="00.637" Length="00.082" Gain="-2.35551"/>
+    <Fade Start="01.050" Length="00.082" Gain="1.18119"/>
+    <Fade Start="01.485" Length="00.070" Gain="-1.44954"/>
+    <Fade Start="01.839" Length="00.070" Gain="1.18119"/>
+   </Region>
+   <Region Ref="1" Name="ChrisReece" Start="18.959" Length="01.971" Offset="12.950" Gain="1.2"/>
+   <Region Ref="1" Name="ChrisReece" Start="20.930" Length="02.805" Offset="14.921" FadeOut="00.710" Gain="1.2"/>
+   <Region Ref="1" Name="ChrisReece" Start="47.077" Length="07.690" Offset="24.570" FadeIn="00.563" FadeOut="00.421" Gain="1.2">
+    <Fade Start="03.383" Length="00.070" Gain="-1.63074"/>
+    <Fade Start="03.737" Length="00.070" Gain="1.18119"/>
+   </Region>
+   <Region Ref="1" Name="ChrisReece" Start="55.029" Length="07.901" Offset="01:08.833" FadeIn="00.563" FadeOut="00.646" Gain="1.2"/>
+   <Region Ref="1" Name="ChrisReece" Start="02:58.558" Length="02.872" Offset="14.641" FadeIn="00.422" FadeOut="00.354" Gain="1.2"/>
+   <Region Ref="1" Name="ChrisReece" Start="03:01.311" Length="19.960" Offset="04:28.755" FadeOut="00.307" Gain="6.1"/>
+   <Region Ref="1" Name="ChrisReece" Start="03:22.310" Length="11.229" Offset="01:18.490" FadeIn="00.353" Gain="1.2"/>
+   <Region Ref="1" Name="ChrisReece" Start="03:35.446" Length="17.837" Offset="01:41.624" FadeIn="00.560" Gain="1.2">
+    <Fade Start="15.434" Length="00.389" Gain="6.28885"/>
+    <Fade Start="17.379" Length="00.389" Gain="1.18119"/>
+   </Region>
+   <Region Ref="1" Name="ChrisReece" Start="03:54.293" Length="04.157" Offset="02:13.261" FadeIn="00.415" Gain="1.2"/>
+   <Region Ref="1" Name="ChrisReece" Start="03:58.450" Length="18.906" Offset="02:17.418" FadeOut="00.306" Gain="1.2"/>
+   <Region Ref="1" Name="ChrisReece" Start="04:23.485" Length="18.089" Offset="03:08.719" FadeIn="00.275" FadeOut="00.277" Gain="1.2"/>
+   <Region Ref="1" Name="ChrisReece" Start="04:41.574" Length="23.849" Offset="03:42.565" FadeIn="00.380" Gain="1.2"/>
+  </Track>
+  <Track Name="Ambience" Volume="-14">
+   <Region Ref="4" Name="AmbienceSound2" Length="01:56.319" FadeIn="02.131" Gain="-6.3">
+    <Fade Start="01:12.501" Length="06.148" Gain="6.5969"/>
+    <Fade Start="01:18.754" Length="00.176" Gain="2"/>
+    <Fade Start="01:19.639" Length="00.176" Gain="6.5969"/>
+    <Fade Start="01:22.491" Length="05.654" Gain="-9.19379"/>
+   </Region>
+   <Region Ref="4" Name="AmbienceSound2" Start="01:56.319" Length="12.869" Offset="01:56.319" Gain="-6.3"/>
+   <Region Ref="4" Name="AmbienceSound2" Start="02:09.188" Length="01:20.814" Offset="02:09.188" FadeOut="01.612" Gain="-8.5">
+    <Fade Start="28.822" Length="02.500" Gain="-2.21332"/>
+    <Fade Start="48.522" Length="02.500" Gain="-8.51277"/>
+    <Fade Start="59.212" Length="00.166" Gain="-11.5774"/>
+    <Fade Start="01:00.046" Length="00.166" Gain="-8.51277"/>
+   </Region>
+   <Region Ref="4" Name="AmbienceSound2" Start="03:27.204" Length="01:53.138" FadeIn="02.131" FadeOut="06.379" Gain="-6.3">
+    <Fade Start="55.587" Length="00.330" Gain="-8.34252"/>
+    <Fade Start="57.237" Length="00.330" Gain="-6.29945"/>
+    <Fade Start="01:22.491" Length="05.654" Gain="-9.19379"/>
+    <Fade Start="01:35.012" Length="02.500" Gain="-2.42664"/>
+   </Region>
+  </Track>
+  <Track Name="Music" Volume="2" Pan="-0.025">
+   <Region Ref="3" Name="Last Summer-ikson" Length="01:56.319" Offset="01.131" Gain="-14.5">
+    <Fade Start="03.182" Length="02.500" Gain="-29.3122"/>
+    <Fade Start="30.962" Length="02.656" Gain="-23.3533"/>
+    <Fade Start="35.751" Length="01.920" Gain="-30.6743"/>
+    <Fade Start="01:13.431" Length="03.586" Gain="-23.5235"/>
+    <Fade Start="01:22.012" Length="02.635" Gain="-31.0148"/>
+   </Region>
+   <Region Ref="3" Name="Last Summer-ikson" Start="01:56.319" Length="12.869" Offset="01:57.450" Gain="-31.0"/>
+   <Region Ref="3" Name="Last Summer-ikson" Start="02:09.188" Length="29.559" Offset="02:10.319" FadeOut="02.441" Gain="-31.0"/>
+   <Region Ref="5" Name="We are one - Vexento" Start="02:54.413" Length="02:30.605" FadeIn="03.505" FadeOut="05.357" Gain="-13.9">
+    <Fade Start="17.087" Length="04.198" Gain="-28.0799"/>
+    <Fade Start="01:19.378" Length="01.288" Gain="-15.8215"/>
+    <Fade Start="01:26.134" Length="02.384" Gain="-28.0799"/>
+    <Fade Start="02:05.799" Length="03.602" Gain="-21.0995"/>
+   </Region>
+  </Track>
+ </Tracks>
+ <Clipboard>
+  <Group Caption="Group 1"/>
+  <Group Caption="Group 2"/>
+  <Group Caption="Group 3"/>
+  <Group Caption="Group 4"/>
+ </Clipboard>
+ <Markers>
+  <Marker Id="1" Name="In" Time="05:02.899"/>
+  <Marker Id="2" Name="Out" Time="05:25.099"/>
+ </Markers>
+</Session>
